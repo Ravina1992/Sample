@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <help><!-- This field is a concatenation of the First Name + Last Name + Username to create a sortable key that can find the next alphabetical user. --></help>
+        <label><!-- Last, First &amp; User Name --></label>
+        <name>project_cloud__Sorting_Hash__c</name>
+    </CustomFieldTranslation>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Project --></label>
+        <lookupFilter>
+            <errorMessage><!-- The selected Project is not a Project Template. --></errorMessage>
+        </lookupFilter>
+        <name>ccpe_ocp__Project__c</name>
+        <relationshipLabel><!-- Products --></relationshipLabel>
+    </CustomFieldTranslation>

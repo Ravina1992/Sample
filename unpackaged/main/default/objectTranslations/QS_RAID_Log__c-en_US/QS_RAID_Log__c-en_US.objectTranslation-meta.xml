@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>RAID Log</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>RAID Logs</value>
+    </caseValues>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <recordTypes>
+        <description><!-- A task or to-do item needed on the project --></description>
+        <label><!-- Action Item --></label>
+        <name>Action_Item</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Denotes key agreed upon decisions within the project --></description>
+        <label><!-- Decision --></label>
+        <name>Decision</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- A problem that needs to be considered and addressed by the group --></description>
+        <label><!-- Issue --></label>
+        <name>Issue</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Events that can have an adverse impact if they occur. Risks differ from issues; risks are issues that haven’t happened yet. --></description>
+        <label><!-- Risk --></label>
+        <name>Risk</name>
+    </recordTypes>
+    <startsWith>Vowel</startsWith>
+</CustomObjectTranslation>

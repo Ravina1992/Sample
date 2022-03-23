@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <help><!-- Check this box if this user needs to be assigned out to Project work and has a Cloud Coach license. --></help>
+        <label><!-- Allocatable --></label>
+        <name>project_cloud__Allocatable__c</name>
+    </CustomFieldTranslation>
